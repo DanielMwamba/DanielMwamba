@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Mwamba</h1>
 <h3 align="center">Full-Stack Web Developer | Technology Enthusiast | Problem Solver</h3>
 
-- 🔭 I’m currently working on [Streameex](https://services.streameex.com) as Full-Stack Developer
+- 🔭 I’m currently working at [Streameex](https://services.streameex.com) as Full-Stack Developer
 - 👯 I’m looking to collaborate on [DevSphere](https://github.com/DanielMwamba/DevSphere.git)
 - 🤝 I’m looking for help with [DevSphere](https://github.com/DanielMwamba/DevSphere.git)
 - 👨‍💻 All of my projects are available at [https://danmwamba.netlify.app/](https://danmwamba.netlify.app/)
