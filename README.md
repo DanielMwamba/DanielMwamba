@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at [Streameex](https://services.streameex.com) as Full-Stack Developer
 - 👯 I’m looking to collaborate on [DevSphere](https://github.com/DanielMwamba/DevSphere.git)
 - 🤝 I’m looking for help with [DevSphere](https://github.com/DanielMwamba/DevSphere.git)
-- 👨‍💻 All of my projects are available at [https://danielmwamba.com/](https://dannielmwamba.com/)
+- 👨‍💻 All of my projects are available at [https://danielmwamba.com/](https://danielmwamba.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
